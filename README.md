@@ -7,7 +7,8 @@ Mener une recherche internet efficacement
 
 **<span style="text-decoration:underline;">Introduction :</span>**
 
-	Au cours de votre apprentissage et de votre carrière de data scientist, vous aurez souvent besoin d’effectuer des recherches internet pour élargir votre culture générale, acquérir de nouvelles connaissances ou compétences, résoudre des erreurs dans vos programmes ou chercher de l’aide pour la réalisation de vos projets. Il est donc primordial de savoir mener correctement une recherche pour trouver rapidement un résultat pertinent et correct. Nous allons nous efforcer dans la suite de cette rubrique de rassembler les points clés qui permettent cela. Il sera par ailleurs considéré que vous savez déjà mener une recherche internet, et que vous êtes ici pour apprendre à améliorer vos méthodes de recherche.
+
+Au cours de votre apprentissage et de votre carrière de data scientist, vous aurez souvent besoin d’effectuer des recherches internet pour élargir votre culture générale, acquérir de nouvelles connaissances ou compétences, résoudre des erreurs dans vos programmes ou chercher de l’aide pour la réalisation de vos projets. Il est donc primordial de savoir mener correctement une recherche pour trouver rapidement un résultat pertinent et correct. Nous allons nous efforcer dans la suite de cette rubrique de rassembler les points clés qui permettent cela. Il sera par ailleurs considéré que vous savez déjà mener une recherche internet, et que vous êtes ici pour apprendre à améliorer vos méthodes de recherche.
 
 Une recherche doit permettre de trouver rapidement un résultat fiable et à jour. 
 
